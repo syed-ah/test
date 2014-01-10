@@ -5,11 +5,11 @@
    <artifactId>responsive-web-demo</artifactId>
    <packaging>pom</packaging>
    <name>responsive-web-demo</name>
-   <version>2.0.0.1001-SNAPSHOT</version>
+   <version>2.0.0.1001</version>
    <scm>
       <connection>https://github.com/syed-ah/test.git</connection>
       <developerConnection>scm:git:https://github.com/syed-ah/test.git</developerConnection>
       <url>scm:git:https://github.com/syed-ah/test.git</url>
-     <tag>HEAD</tag>
+     <tag>2.0.0.1001.tag</tag>
   </scm>
 </project>
